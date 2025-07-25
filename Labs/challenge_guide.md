@@ -15,7 +15,7 @@ In this challenge, you will create a Multi-Agent System that accepts a user’s 
 
         > **Note:** Ensure the region is set to **East US**.
 
-    - Deploy it in resource group prefixed with `openaiagents`.
+    - Deploy it in the resource group named `openaiagents`.
 
     - Obtain the Azure OpenAI Key and Endpoint. 
 
